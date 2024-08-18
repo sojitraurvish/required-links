@@ -1,0 +1,23 @@
+1 brand image card
+
+https://www.freecodecamp.org/news/how-to-write-better-git-commit-messages/
+https://www.conventionalcommits.org/en/v1.0.0/
+
+https://fakestoreapi.com/docs
+
+https://ant.design/docs/blog/form-names
+https://ui.shadcn.com/docs/components/breadcrumb
+
+
+https://docs.google.com/spreadsheets/d/1g983I4mIZuulWq_-XqGrlmR4Zm9HszKHEaY8gPH23uo/edit?gid=0#gid=0
+https://next-intl-docs.vercel.app/
+https://romgrk.com/posts/optimizing-javascript
+https://gtmetrix.com/
+
+https://medium.com/@atulbanwar/list-virtualization-in-react-3db491346af4
+https://medium.com/@tushar_chavan/react-component-reusability-class-variance-authority-cva-5e7e98d61194
+https://medium.com/@charuwaka/supercharge-your-react-forms-with-react-hook-form-zod-and-mui-a-powerful-trio-47b653e7dce0
+
+
+
+
